@@ -1,2 +1,2 @@
 # crm-map
-A Mapping CRM using Node, React, and MongoDB
+A Mapping CRM using Node, React, GraphQL, and MongoDB
